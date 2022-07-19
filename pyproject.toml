@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "dataloader"
+name = "dataloader-fetcher"
 version = "0.0.1"
 description = "Dataloader for PyTorch"
 authors = ["\"Frank Kelly\", \"Zabil CM\""]
