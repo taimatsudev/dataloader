@@ -9,7 +9,7 @@ from torch.utils.data.dataset import Dataset
 from torch import tensor
 from sklearn import datasets
 
-from dataloader import DataLoaderFetcher, TabularDataSet
+from dataloader_fetcher import DataLoaderFetcher, TabularDataSet
 
 
 class CustomDataset(Dataset):
